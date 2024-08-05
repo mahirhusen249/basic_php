@@ -1,0 +1,30 @@
+.container{  
+    margin: 0px; 
+    padding: 0px; 
+    box-sizing: "border-box";;
+}
+.container h1{ 
+    text-align: center; 
+     font-size: 40px;
+ }  
+
+ input,textarea{    
+    
+    border: 2px solid rgb(21, 19, 19); 
+    border-radius: 3px; 
+    outline: none;
+    font: size 16px;
+    width: 40%; 
+    margin: 11px auto;  
+    padding: 5px;   
+
+} 
+.btn{ 
+    color: rgb(230, 7, 7);
+    background-color: rgb(96, 57, 251); 
+    padding: 8px 10px; 
+    font-size: 20px; 
+    border: 2px solid white; 
+    border-radius: 15px; 
+    cursor: pointer;
+} 
